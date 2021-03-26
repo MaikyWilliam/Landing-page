@@ -9,6 +9,9 @@ html, body{
     height: 100%;
 }
 
+.clear{
+    clear: both;
+}
 .center{
     width: 1200px;
     margin: 0 auto;
@@ -181,4 +184,15 @@ html, body{
 
 .container-single img{
     width: 70px;
+}
+
+footer{
+    border-top: 2px solid gray;
+    padding: 20px 0;
+    text-align: center;
+    color: gray;
+}
+
+footer p{
+    margin-top: 8px;
 }
